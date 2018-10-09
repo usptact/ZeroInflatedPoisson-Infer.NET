@@ -10,4 +10,4 @@ The coin flip decides whether to return a zero. If tails, a sample from Poisson 
 
 The model will infer the Beta posterior for coin biasedness and the mean of the Poisson distribution. In this demo, mean values of the distribution are printed to the screen.
 
-The Infer.NET framework has its own license.
+Updated to use open source Infer.NET.
